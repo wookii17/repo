@@ -272,3 +272,39 @@ chmod -x ff
 chmod -x make
 chmod -x /bin/make
 make ch11.html
+chmod -x /bin/make
+ls
+make ch11.html
+ls -l /bin/make
+chmod -x /bin/make
+ls -l /bin/make
+chmod +x /bin/make
+ls -l /bin/make
+make ch11.html
+cp 1.txt 1.bak
+ls-l
+ls -l
+cat 1.bak
+git init
+ls -l /root
+ll /root
+alias ll
+sudo apt-get install git
+git config --global user.name "wookii17"
+git config --global user.email "wkkim1117@gmail.com"
+git Init
+git init
+git add .
+git commit -m "Linux"
+git remote add origin https://github.com/wookii17/repo.git
+git push -u origin master
+git pull origin master
+git branch wookii17
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+git add 1.txt
+git commit -m "1.txt"
+git remote add origin https://github.com/wookii17/repo.git
+git push -u origin master
+git clone https://username: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@github.com/wookii17/repo.git/
+ls -al ~/.ssh
